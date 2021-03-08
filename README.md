@@ -1,1 +1,1 @@
-# Collact default of Configuration and Template
+# Collect default of Configuration and Template
